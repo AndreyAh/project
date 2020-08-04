@@ -1,5 +1,5 @@
 'esversion: 6';
-let money = prompt ("Ваш буджет на месяц", '');
+let money = prompt ("Ваш буджет на месяц", '100000');
 let time = prompt ("Введите дату в формате: YYYY-MM-DD", '');
 
 let appData = {
